@@ -19,7 +19,7 @@ public class Foo {
 	}
 
 	public void doNothing () {
-		
+		System.out.print("nothing done");
 	}
 	
 	public void sayHello(String words){
