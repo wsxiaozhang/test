@@ -1,2 +1,2 @@
-test Java code
+test Java code with properties file
 ====
