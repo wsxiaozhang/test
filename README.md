@@ -1,2 +1,2 @@
-test
+test Java code
 ====
